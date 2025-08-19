@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+
+# dotenv environment file
+.env
+file.txt
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime files
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: OS/System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific (optional, but useful)
+.vscode/
+.idea/
